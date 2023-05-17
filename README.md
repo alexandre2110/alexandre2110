@@ -10,4 +10,4 @@ meu nome é alexandre
 
 alexandre.mancini.santos@escola.pr.gov.br
 
-![] (https://media.tenor.com/It0ch8eciqQAAAAS/allen-iverson-shimmy.gif)
+![](https://media.tenor.com/It0ch8eciqQAAAAS/allen-iverson-shimmy.gif)
